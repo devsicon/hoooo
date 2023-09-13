@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MegaCouponWheel\\": "app/"
+        },
+        "files": [
+            "app/functions.php"
+        ]
+    }
+}
